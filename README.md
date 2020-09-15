@@ -1,2 +1,2 @@
 # LidarImage
-This repository converts Lidar pointcloud (.pcd, .ply, .txt ..etc) in to greyscale image
+This repository converts Lidar pointcloud (.pcd, .ply, .txt ..etc) into greyscale image
